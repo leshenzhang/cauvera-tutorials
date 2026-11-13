@@ -8,7 +8,7 @@ DSH（Cauvera）教程栏的公开课程库。软件默认从这里读课程目�
 
 ## 课程
 
-这里只收开放许可的课程。每门课按原许可改编成 DSH 课程格式，`course.json` 的 `source` 和包内 `LICENSE` 写明作者、许可和原始仓库；第三方版权图片没有收入，只保留原文链接。
+这里收开放许可的课程，以及经原作者授权公开分发、由课题组整理改编的计算化学笔记（`cc-notes-*`）。每门课按原许可改编成 DSH 课程格式，`course.json` 的 `source` 和包内 `LICENSE` 写明作者、许可和原始仓库；第三方版权图片没有收入，只保留原文链接。
 
 | id | 课程 | 章 | 作者 | 许可 | 原始仓库 |
 |---|---|---|---|---|---|
@@ -24,6 +24,13 @@ DSH（Cauvera）教程栏的公开课程库。软件默认从这里读课程目�
 | `zenggs05-dft-gaussian` | Gaussian 量子化学计算教程 | 52 | Gaoshan Zeng | MIT | https://github.com/zenggs05/DFT-Tutorials |
 | `zenggs05-dft-openmx` | OpenMX 第一性原理计算教程 | 51 | Gaoshan Zeng | MIT | https://github.com/zenggs05/DFT-Tutorials |
 | `zenggs05-dft-vasp` | VASP 第一性原理计算教程 | 69 | Gaoshan Zeng | MIT | https://github.com/zenggs05/DFT-Tutorials |
+| `cc-notes-qc` | 量子化学计算笔记 | 240 | Cauvera 课题组整理 | 经原作者授权公开分发与改编 | — |
+| `cc-notes-multiwfn` | Multiwfn 波函数分析笔记 | 226 | Cauvera 课题组整理 | 经原作者授权公开分发与改编 | — |
+| `cc-notes-md` | 分子模拟笔记 | 42 | Cauvera 课题组整理 | 经原作者授权公开分发与改编 | — |
+| `cc-notes-vmd` | VMD 可视化笔记 | 20 | Cauvera 课题组整理 | 经原作者授权公开分发与改编 | — |
+| `cc-notes-cp2k` | CP2K笔记 | 6 | Cauvera 课题组整理 | 经原作者授权公开分发与改编 | — |
+| `cc-notes-dft-pbc` | 第一性原理计算笔记 | 4 | Cauvera 课题组整理 | 经原作者授权公开分发与改编 | — |
+| `cc-notes-orca` | ORCA笔记 | 1 | Cauvera 课题组整理 | 经原作者授权公开分发与改编 | — |
 
 CC BY-SA 4.0 的课程（`epfl-iesm`、`epfl-mdmc` 文本）改编后仍按 CC BY-SA 4.0 发布。
 
